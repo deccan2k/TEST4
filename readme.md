@@ -1,4 +1,4 @@
-# Headding git ang GitHUb
+#  git ang GitHUb
 wellcom to git
-## Heading 2
+## paragraph title
 this is Pragraph
